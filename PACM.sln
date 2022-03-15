@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PACM", "PACM\PACM.csproj", "{5C7B8AD2-E476-40A2-A0BB-7095A974E33A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PACM.Classes", "PACM.Classes\PACM.Classes.csproj", "{C42C48AA-D17B-4A2E-A0F6-4DC54AC8E0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C7B8AD2-E476-40A2-A0BB-7095A974E33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7B8AD2-E476-40A2-A0BB-7095A974E33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7B8AD2-E476-40A2-A0BB-7095A974E33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7B8AD2-E476-40A2-A0BB-7095A974E33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42C48AA-D17B-4A2E-A0F6-4DC54AC8E0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42C48AA-D17B-4A2E-A0F6-4DC54AC8E0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42C48AA-D17B-4A2E-A0F6-4DC54AC8E0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42C48AA-D17B-4A2E-A0F6-4DC54AC8E0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38693B1E-B45F-4034-AA75-6475F6D92808}
+	EndGlobalSection
+EndGlobal
